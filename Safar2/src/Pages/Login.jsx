@@ -4,8 +4,8 @@ import PageNav from '../components/PageNav';
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState('jack@example.com');
-  const [password, setPassword] = useState('qwerty');
+  const [email, setEmail] = useState('sonu@boltey.com');
+  const [password, setPassword] = useState('hellonigga');
 
   return (
     <main className={styles.login}>
