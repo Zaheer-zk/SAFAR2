@@ -1,40 +1,64 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2021-10-31T15:59:59.138Z",
+      "notes": "Bollywood's home!",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 19.076,
+        "lng": 72.8777
       },
-      "id": 73930385
+      "id": 73930386
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2022-07-15T08:22:53.976Z",
+      "notes": "Capital city and full of history.",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": 28.6139,
+        "lng": 77.209
       },
-      "id": 17806751
+      "id": 17806752
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2022-05-12T10:15:25.863Z",
+      "notes": "The Pink City.",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": 26.9124,
+        "lng": 75.7873
       },
-      "id": 98443197
+      "id": 98443201
+    },
+    {
+      "cityName": "Sikar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2001-06-29T12:45:10.863Z",
+      "notes": "Historic and culturally rich.",
+      "position": {
+        "lat": 27.614,
+        "lng": 75.1429
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Khandela",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2006-03-15T13:55:55.863Z",
+      "notes": "A serene town in Rajasthan.",
+      "position": {
+        "lat": 27.8003,
+        "lng": 75.7173
+      },
+      "id": 98443203
     }
   ]
 }
